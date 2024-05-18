@@ -19,10 +19,6 @@ This is a simple chess program implemented in Java. It initializes a chessboard 
 ### Installation
 
 1. Clone the repository or download the source code.
-
-   ```bash
-   git clone https://github.com/your-username/simple-chess-java.git
-   cd simple-chess-java
-Compile the Java files.
+2. Compile the Java files.
 
 Feel free to modify the content to better fit your needs, such as updating the repos
