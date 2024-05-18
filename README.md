@@ -1,4 +1,4 @@
-# chessProgram
+# ChessProgram
 
 # Simple Chess Program in Java
 
